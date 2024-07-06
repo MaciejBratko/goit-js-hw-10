@@ -13,7 +13,7 @@
     "glob": "^8.1.0"
   },
   "author": "Maciej Bratko <maciej.bratko@gmail.com>",
-  "description": "goit-js-hw-09",
+  "description": "goit-js-hw-10",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
