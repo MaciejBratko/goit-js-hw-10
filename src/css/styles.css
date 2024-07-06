@@ -23,3 +23,24 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main {
+  font-size: xx-large;
+  /* line-height: 200%; */
+  transform: translateY(calc(50vh - 100%));
+  display: flex;
+  flex-direction: column;
+  row-gap: 40px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 40px;
+}
